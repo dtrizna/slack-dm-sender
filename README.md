@@ -6,9 +6,9 @@
 To use this code, you need to create a Slack App & assign it Bot feature with `chat:write` permissions.
 `users:read` and `users:read.email` might help if you want to extend user lookup logic (excluded from public version of this script).
 
-![App Settings](app.png)
-
 App interface available under: `https://api.slack.com/apps`
+
+![App Settings](app.png = 250x)
 
 ## Interactivity
 
