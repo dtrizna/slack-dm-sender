@@ -1,0 +1,46 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Hello :wave:!\n"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "We have identified that your *password* can be easily guessed or can be found within common password dictionaries, so *it is not strong enough*."
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "We ask you to *change your password*!\n Good practice: form it as a phrase of multiple words you can easily remember with at least one symbol and digit!"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Once you do it, please *press the button below* to let us know. \n"
+			}
+		},
+		{
+			"type": "actions",
+			"elements": [
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "I changed my password!",
+						"emoji": true
+					},
+					"value": "click_me_123"
+				}
+			]
+		}
+	]
+}
