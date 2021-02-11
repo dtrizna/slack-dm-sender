@@ -8,7 +8,7 @@ To use this code, you need to create a Slack App & assign it Bot feature with `c
 
 App interface available under: `https://api.slack.com/apps`
 
-![App Settings](app.png =250x)
+<img src="app.png" alt="App Settings" width="250"/>
 
 ## Interactivity
 
